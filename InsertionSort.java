@@ -22,6 +22,7 @@ public class InsertionSort {
                 }
             }
         }
+		System.out.println("Sorted Array: ");
 		for(String i:ans) {
 			System.out.print(i+"\t");
 		}
